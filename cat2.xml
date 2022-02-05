@@ -14,14 +14,14 @@ xsi:noNamespaceSchemaLocation="cat.xsd">
     <stu-name>Ravi</stu-name>>
     <stu-university>25</stu-university>>
     <stu-phone>8473423945</stu-phone>>
-    <stu-email>gyan@gmail.com</stu-email>>
+    <stu-email>ravi@gmail.com</stu-email>>
    </COMPUTER-SCIENCE>
 
    <COMPUTER-SCIENCE>
     <stu-name>Aman</stu-name>>
     <stu-university>35</stu-university>>
     <stu-phone>6784723945</stu-phone>>
-    <stu-email>rishu@gmail.com</stu-email>>
+    <stu-email>aman@gmail.com</stu-email>>
    </COMPUTER-SCIENCE>
 
    <COMPUTER-SCIENCE>
